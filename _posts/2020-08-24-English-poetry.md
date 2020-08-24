@@ -26,25 +26,25 @@ Per esempio:
 
 > ### Workaholic
 > 
-> working hard, that's your addiction,
-> contradiction
-> of this nation.
-> you've been trained to submission,
-> that's your mission:
-> my inibition.
+> working hard, that's your addiction,<br>
+> contradiction<br>
+> of this nation.<br>
+> you've been trained to submission,<br>
+> that's your mission:<br>
+> my inibition.<br>
 >
-> Boss
-> what do you want?!
+> Boss<br>
+> what do you want?!<br>
 >
-> for the lazy desecration,
-> the distraction
-> is infection.
-> no relaxing, just oppression,
-> that's the fashion
-> of your lesson.
+> for the lazy desecration,<br>
+> the distraction<br>
+> is infection.<br>
+> no relaxing, just oppression,<br>
+> that's the fashion<br>
+> of your lesson.<br>
 >
-> Boss
-> what do you wnt?!
+> Boss<br>
+> what do you wnt?!<br>
 
 Questo è il primo testo che scrissi in inglese.
 
@@ -52,57 +52,57 @@ L'idea nacque per una canzone punk/HC, visto che all'epoca iniziavo ad ascoltarn
 
 Altro esempio è il seguente:
 
-> it started all long time ago
-> to steal a dime or two
-> the tote was drunk, I was a kid
-> my family was poor
-> I was so quick to make the trick
-> I was born for the crime
-> the next day I bought some sweets
-> that day I felt so rich
+> it started all long time ago<br>
+> to steal a dime or two<br>
+> the tote was drunk, I was a kid<br>
+> my family was poor<br>
+> I was so quick to make the trick<br>
+> I was born for the crime<br>
+> the next day I bought some sweets<br>
+> that day I felt so rich<br>
 >
-> cause I'll be hanged to a tree at noon tomorrow
-> I get to speak one last time tonight
-> I want to live my last moments confessing my sins
-> maybe god will forgive my misdeeds
+> cause I'll be hanged to a tree at noon tomorrow<br>
+> I get to speak one last time tonight<br>
+> I want to live my last moments confessing my sins<br>
+> maybe god will forgive my misdeeds<br>
 >
-> when I grew up I learned the way
-> the world would use to be
-> I gambled at pubs all day and night
-> with people not so smart
-> the game was mine, I did my time
-> with tricks too fast for them
-> when they insisted my win was strange
-> my gun was even faster
+> when I grew up I learned the way<br>
+> the world would use to be<br>
+> I gambled at pubs all day and night<br>
+> with people not so smart<br>
+> the game was mine, I did my time<br>
+> with tricks too fast for them<br>
+> when they insisted my win was strange<br>
+> my gun was even faster<br>
 >
-> cause I'll be hanged to a tree at noon tomorrow
-> I get to speak one last time tonight
-> I want to live my last moments confessing my sins
-> maybe god will forgive my misdeeds
+> cause I'll be hanged to a tree at noon tomorrow<br>
+> I get to speak one last time tonight<br>
+> I want to live my last moments confessing my sins<br>
+> maybe god will forgive my misdeeds<br>
 >
-> One day at last my odds had changed
-> I drunk a bit too much
-> that man alone, for me that night
-> was just a mine of gold
-> I needed thar cash, I wanted it fast
-> I dragged out my gun
-> I found myself to demonstrate that "bag or life"
-> is more than just a hint
+> One day at last my odds had changed<br>
+> I drunk a bit too much<br>
+> that man alone, for me that night<br>
+> was just a mine of gold<br>
+> I needed thar cash, I wanted it fast<br>
+> I dragged out my gun<br>
+> I found myself to demonstrate that "bag or life"<br>
+> is more than just a hint<br>
 >
-> so here I am, alone with you
-> my fate reached fast the end
-> not to my god nor to the law
-> I owe anything in life
+> so here I am, alone with you<br>
+> my fate reached fast the end<br>
+> not to my god nor to the law<br>
+> I owe anything in life<br>
 >
-> cause I'll be hanged to a tree at noon tomorrow
-> I get to speak one last time tonight
-> I want to live my last moments confessing my sins
-> maybe god will forgive my misdeeds
+> cause I'll be hanged to a tree at noon tomorrow<br>
+> I get to speak one last time tonight<br>
+> I want to live my last moments confessing my sins<br>
+> maybe god will forgive my misdeeds<br>
 >
-> for I'll be hanged to a tree at noon tomorrow
-> I get to live one last time tonight
-> I want to spend my last moments caressing your hair
-> having the chance to kiss you farewell
+> for I'll be hanged to a tree at noon tomorrow<br>
+> I get to live one last time tonight<br>
+> I want to spend my last moments caressing your hair<br>
+> having the chance to kiss you farewell<br>
 
 Nato sempre come testo per una canzone[^3], per la precisione una canzone country con ispirazioni anarchiche e punkeggianti; ne scrssi un paio di testi così, in inglese e anche con parte della musica pronta.
 
@@ -112,24 +112,24 @@ caso a parte invece è la seguente:
 
 > ### Sleepy week
 >
-> monday, tuesday
-> leaving early that's
-> my fate
+> monday, tuesday<br>
+> leaving early that's<br>
+> my fate<br>
 >
-> wednesday, thursday
-> don't go to bed
-> too late
+> wednesday, thursday<br>
+> don't go to bed<br>
+> too late<br>
 >
-> friday, sathurday
-> that's not the time
-> to faint
+> friday, sathurday<br>
+> that's not the time<br>
+> to faint<br>
 >
-> sunday morning
-> I'm still working
-> That's just, restless,
-> my face
-> reflected
-> in the mirror
+> sunday morning<br>
+> I'm still working<br>
+> That's just, restless,<br>
+> my face<br>
+> reflected<br>
+> in the mirror<br>
 
 Scritta molto recentemente, nelle scorse settimane.
 
