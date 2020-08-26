@@ -8,13 +8,13 @@ In questi giorni sto dando una letta ad un'antologia di poesie inglesi, un libro
 
 Dallo spulciare, quindi, un po' di autori della storia della letteratura, sono passato a cercarmi qualcosa riguardo la metrica inglese.
 
-In pratica il tradizionale sistema quantitativo del mondo classico, che guarda cioè alla lunghezza delle sillabe, così come anche in italiano, in inglese va a modificarsi.
+In pratica il [tradizionale sistema quantitativo del mondo classico](https://it.wikipedia.org/wiki/Metrica_quantitativa#:~:text=La%20metrica%20quantitativa%20%C3%A8%20una,propria%20di%20molte%20lingue%20moderne.&text=Nella%20poesia%20italiana%20moderna%20vi,di%20riproporre%20l'antica%20metrica.), che guarda cioè alla lunghezza delle sillabe, così come anche in italiano, in inglese va a modificarsi.
 
-In italiano tuttavia il verso si sviluppa sul numero di sillabe fino all'ultimo accento e di solito è composto da queste sillabe più una[^1], per cui il famoso endecasillabo, che fin da Dante diventa uno dei metri più usati, è un verso di undici sillabe con l'accento sulla decima, poi variazioni degli accenti intermedi o del numero di sillabe dopo quest'ultimo accento, per quanto importanti, restano questioni in qualche modo secondarie.
+In italiano tuttavia il verso si sviluppa sul numero di sillabe fino all'ultimo accento e di solito è composto da queste sillabe più una[^1], per cui il famoso endecasillabo, che fin da Dante diventa [uno dei metri più usati](https://www-sciencedirect-com.libezproxy.open.ac.uk/science/article/pii/S0024384114000023), è un verso di undici sillabe con l'accento sulla decima, poi variazioni degli accenti intermedi o del numero di sillabe dopo quest'ultimo accento, per quanto importanti, restano questioni in qualche modo secondarie.
 
 In inglese invece la valutazione qualitativa si fa sui piedi, ovvero coppie o terne di sillabe, per cui si continua, così come nel modello classico, a parlare di giambi, trochei, ecc. e il risultato è il susseguirsi di unità ritmiche.
 
-per esempio il metro giambico è un piede di due sillabe che scandisce un ritmo tipo "da-DUM", ovvero sillaba "unstressed" seguita da sillaba "stressed", e il famoso pentametro giambico, che spopola tra '500 e '800 ed è un po' il corrispettivo inglese del nostro endecasillabo per popolarità, sarebbe un verso composto da cinque giambi.
+Per esempio il metro giambico è un piede di due sillabe che scandisce un ritmo tipo "da-DUM", ovvero sillaba "unstressed" seguita da sillaba "stressed", e il famoso pentametro giambico, che spopola tra '500 e '800 ed è un po' il corrispettivo inglese del nostro endecasillabo per popolarità, sarebbe un verso composto da cinque giambi.
 
 Tecnicismi a parte, anche perché mettersi a scrivere in metrica stretta non mi ispira molto come idea, per quanto sia bello ed interessante conoscerla, penso che questa natura così ritmica e musicale della poetica inglese, che la avvicina a quella classica, forse, un po' di più rispetto a quella italiana, sia interessante e la renda particolare per una persona come me che è si abituata ad ascoltare musica in inglese ma non lo è  a leggere poesie in quella lingua.
 
@@ -108,7 +108,7 @@ Nato sempre come testo per una canzone[^3], per la precisione una canzone countr
 
 In questi casi mi focalizzai molto di più sul gergo e le parole usate, mi informai apposta, per rendere un'atmosfera, ma anche sulla capacità di raccontare una storia, cercando di restare il più possibile entro gli schemi metrici.
 
-caso a parte invece è la seguente:
+Caso a parte invece è la seguente:
 
 > ### Sleepy week
 >
