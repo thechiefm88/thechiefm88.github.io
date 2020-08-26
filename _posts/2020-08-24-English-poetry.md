@@ -10,7 +10,7 @@ Dallo spulciare, quindi, un po' di autori della storia della letteratura, sono p
 
 In pratica il [tradizionale sistema quantitativo del mondo classico](https://it.wikipedia.org/wiki/Metrica_quantitativa#:~:text=La%20metrica%20quantitativa%20%C3%A8%20una,propria%20di%20molte%20lingue%20moderne.&text=Nella%20poesia%20italiana%20moderna%20vi,di%20riproporre%20l'antica%20metrica.), che guarda cioè alla lunghezza delle sillabe, così come anche in italiano, in inglese va a modificarsi.
 
-In italiano tuttavia il verso si sviluppa sul numero di sillabe fino all'ultimo accento e di solito è composto da queste sillabe più una[^1], per cui il famoso endecasillabo, che fin da Dante diventa uno dei metri più usati, è un verso di undici sillabe con l'accento sulla decima, poi variazioni degli accenti intermedi o del numero di sillabe dopo quest'ultimo accento, per quanto importanti, restano questioni in qualche modo secondarie.
+In italiano tuttavia il verso si sviluppa sul numero di sillabe fino all'ultimo accento e di solito è composto da queste sillabe più una[^1], per cui il famoso endecasillabo, che fin da Dante diventa [uno dei metri più usati](https://www-sciencedirect-com.libezproxy.open.ac.uk/science/article/pii/S0024384114000023), è un verso di undici sillabe con l'accento sulla decima, poi variazioni degli accenti intermedi o del numero di sillabe dopo quest'ultimo accento, per quanto importanti, restano questioni in qualche modo secondarie.
 
 In inglese invece la valutazione qualitativa si fa sui piedi, ovvero coppie o terne di sillabe, per cui si continua, così come nel modello classico, a parlare di giambi, trochei, ecc. e il risultato è il susseguirsi di unità ritmiche.
 
