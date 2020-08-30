@@ -51,6 +51,9 @@ div.vetrina{
 
 	color: white;
 }
+img.copertina{
+	background-size: cover;
+}
 
 div.core{
 	background-color: #a30202;
