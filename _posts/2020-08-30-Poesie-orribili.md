@@ -92,3 +92,5 @@ A livello tecnico l'ho adorata da subito; condivide un moto stilistico con la pr
 Ho cercato insomma di rendere la lettura godibile nei suoni ma sofferta nel ritmo, il passo successivo nel concetto che dicevo prima.
 
 Bhe queste erano ovviamente le mie intenzioni nello scrivere, poi ovviamente l'interpretazione personale segue altre strade, quindi se vi va fatemi sapere come avete accolto le poesie e cosa vi hanno trasmesso, per il resto al prossimo post.
+
+[^1]: Questa poesia è inclusa nella mia prima raccolta "gente che grida piano" che trovi nella vetrina delle opere in homepage.
