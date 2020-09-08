@@ -50,7 +50,7 @@ a partire da un bisogno, come una insoddisfazione e una necessitàche ci porta a
 
 I due esempi recenti invece li mostro ora di seguito:
 
-Necrofilo
+### Necrofilo
 
 > mosca scura e zozza infiltrandosi<br>
 > tra pieghe e piaghe<br>
@@ -68,7 +68,7 @@ Il tutto comunque in una serie di costrutti verbali che mi piacciono molto e pen
 
 Il secondo esempio, ancora piu recente, è peraltro anche piu interessante:
 
-Cappio bianco
+### Cappio bianco
 
 > In quest'atmosfera cupa<br>
 > è muta<br>
