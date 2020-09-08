@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "L'ombra" di Magrelli
+title: <<L'ombra>> di Magrelli
 date: 2020-09-08
 author: MDA DS
 ---
