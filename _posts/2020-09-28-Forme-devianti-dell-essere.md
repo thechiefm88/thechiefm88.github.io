@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Forme devianti dell'essere
-date: 
+date: 2020-09-28
 author: MDA DS
 ---
 
