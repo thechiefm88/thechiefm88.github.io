@@ -101,17 +101,17 @@ Chiudo con una mia poisia recente, nell'ambito di ultimi progetti che includono 
 
 ### 17 Novembre 1973
 
->Così per giovani,
->studenti ed operai
->al grido di "psomi,
->paideia, eleftheria"
->il metallo freddo e cingolato
->ingoia le carni,
->le getta nello sterco
->e nel veleno della sua divisa
->ma non ferma
->le voci di chi urla
->e a rigurgito tuona
+>Così per giovani,<br>
+>studenti ed operai<br>
+>al grido di "psomi,<br>
+>paideia, eleftheria"<br>
+>il metallo freddo e cingolato<br>
+>ingoia le carni,<br>
+>le getta nello sterco<br>
+>e nel veleno della sua divisa<br>
+>ma non ferma<br>
+>le voci di chi urla<br>
+>e a rigurgito tuona<br>
 >"Molòn Labé"
 
 La poesia tratta la vicenda dell'[occupazione del politecnico di Atene](https://greciamia.it/blogs/blog/politecnico-17-novembre) da parte di alcuni studenti; occupazione che poi coinvolse altre proteste da parte di studenti, ma anche operai ed altri.<br>
