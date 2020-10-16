@@ -53,6 +53,7 @@ div.vetrina{
 }
 img.copertina{
 	background-size: cover;
+	height: auto;
 }
 
 div.core{
