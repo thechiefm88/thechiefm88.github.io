@@ -34,4 +34,4 @@ Piuttosto vi consiglio vivamente di leggerlo, soprattutto in questa versione "nu
 Detto questo ribadisco che col prossimo post pubblicherò anche nuovo materiale, mentre lavoro alla prossima raccolta, e vi saluto.
 
 [^1]: Copia che dopo molto tribolare, visto che nelle librerie a me vicine non c'era modo di ottenerla, dovrei essere riuscito ad ottenere su un sito di compro-vendo libri e che dovrebbe arrivarmi prossimamente; Infatti spero di aver modo di farci un post sopra dopo averlo letto, visto anche la fatica di cercarlo.
-[^2]: Inizialmente scelta semplicemente perché mi è capitata una copia craccata e pronta da scaricare, con buona pace dell'autore,m anche se considerata l'invettiva che tira fuori in introduzione al testo non potrei sentirmi in colpa neppure volendo.
+[^2]: Inizialmente scelta semplicemente perché mi è capitata una copia craccata e pronta da scaricare, con buona pace dell'autore, anche se considerata l'invettiva contro l'editoria che tira fuori in introduzione al testo non potrei sentirmi in colpa neppure volendo.
