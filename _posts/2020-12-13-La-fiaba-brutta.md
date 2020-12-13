@@ -29,6 +29,6 @@ Ringrazio quindi candidamente l'anonimo autore.
 
 Detto questo chiudo e vi invito a darci un'occhiata nella vetrina delle opere in homepage.
 
-[^1]: Motivo per cui il componimentosi autoproclama, in modo volutamente non esatissimo forse, fiaba.
+[^1]: Motivo per cui il componimento si autoproclama, in modo volutamente non esatissimo forse, fiaba.
 [^2]: quel che cambia rispetto all'inizio è poco nel mondo della narrazione, in pieno stile fiabesco, dove usualmente l'avventura narrata rappresenta uno scorcio di straordinarietà  in un mondo altrimenti omogeneo e immutabile.
 [^3]: Utilizzo il titolo tradotto perché ovviamente sto leggendo la traduzione in italiano, non sapendo leggere il francese e men che meno il francese antico.
