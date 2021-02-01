@@ -64,7 +64,7 @@ Mi sembra allora il caso di vedere qualche componimento in particolare:
 >che male... che freddo... che sonno...
 
 La poesia, che dovrebbe riferirsi al capodanno 1961, esordisce con la descrizione sommaria degli sfarzi con cui si è soliti festeggiare che scivola subito su toni più scocciati, per poi risalire di botto su un'atmosfera di festa e gioco per poi finire con toni cupi.<lb>
-Ecco questo moto oscillatorio rappresenta forse la tendenza più fondamentale di questa prima parte, il fondamentale senso di inconsistenza delle energie positive, che si sciupano sempre troppo rapidamente; Mi ricorda vagamente un tema esasperante che si trova in ["fuoco fatuo"](https://www.ibs.it/fuoco-fatuo-libro-pierre-drieu-la-rochelle/e/9788836815715) di [Drieu La Rochelle](https://en.wikipedia.org/wiki/Pierre_Drieu_La_Rochelle), libro che ho amato tantissimo e consiglio, che illustra appunto questa incapacità di afferrare la vita e le sue bellezze, che puntualmente sfuggono, o "il creato", come lo chiama invece il nostro autore in "sempre la stessa cosa", componimento poco seguente.<lb>
+Ecco questo moto oscillatorio rappresenta forse la tendenza più fondamentale di questa prima parte, il fondamentale senso di inconsistenza delle energie positive, che si sciupano sempre troppo rapidamente; Mi ricorda vagamente un tema esasperante che si trova in ["fuoco fatuo"][link1] di [Pierre Drieu La Rochelle][link2], libro che ho amato tantissimo e consiglio, che illustra appunto questa incapacità di afferrare la vita e le sue bellezze, che puntualmente sfuggono, o "il creato", come lo chiama invece il nostro autore in "sempre la stessa cosa", componimento poco seguente.<lb>
 In verità penso che questa tendenza resti anche in alcuni punti della parte successiva, sebbene come pattern sottostante, voluto o meno: per intenderci se in una poesia va tutto bene magari in quella dopo va tutto male, questo moto da interrogazione razionale ed esplicita si tramuta quindi in una sorta di schizofrenia.<lb>
 Il componimento è scritto in dialetto ed in rime alternate, penso meriti menzione l'espediente del dialogo con se stesso attraverso lo specchio che riesce molto bene e a me è piaciuto molto.
 
@@ -162,3 +162,6 @@ Chiudo riproponendo il link al pdf del libro qui in fondo, per chi si fosse incu
 [^3]: Dalla poesia "dolore", datata 1961, immagino che all'epoca l'autore studiasse.
 [^4]: Anche dove pare lo schema si spezzi guardando meglio ci si rende conto che l'autore è solo andato a capo non avendo abbastanza spazio su riga, l'unica eccezione figura nel componimento "un figlio" al cui centro si trova una coppia di versi spaiati.
 [^5]: Per motivi di spazio non sono inclusi nel pdf gli 8 schizzi presenti nel libro, mi spiace ma non sono riuscito a trovare un'altra soluzione.
+
+[link1]:(https://www.ibs.it/fuoco-fatuo-libro-pierre-drieu-la-rochelle/e/9788836815715)
+[link2]:(https://en.wikipedia.org/wiki/Pierre_Drieu_La_Rochelle)
