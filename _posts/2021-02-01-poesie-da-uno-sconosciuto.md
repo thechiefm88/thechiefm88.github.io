@@ -156,7 +156,7 @@ Al di là della tematica, che appunto permea tutta l'opera,sono interressanti le
 
 Chiudo riproponendo il link al pdf del libro qui in fondo, per chi si fosse incuriosito o volesse leggerlo, se non l'avesse già fatto; Direi che se da un lato il non sapere nulla di opera e autore sia statouna difficoltà insolita, dall'altro è stato decisamente stimolante.
 
-["Aiutiamoci Ancora" di Sergio Di Massimo](/assets/pdf/EXTRA_aa_sdm)[^5]
+["Aiutiamoci Ancora" di Sergio Di Massimo](/assets/pdf/EXTRA_aa_sdm.pdf)[^5]
 
 [^1]: Mi riferisco alla pagina che esplicita titolo, autore e altre note fondamentali; il \maketitle del latex per intenderci.
 [^2]: Mi viene bene l'opera di Panagulis, per citare un altro autore di cui ho parlato qui sul blog, o anche Ungaretti.
