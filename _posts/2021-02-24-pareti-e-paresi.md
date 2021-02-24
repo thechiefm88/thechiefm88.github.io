@@ -81,9 +81,9 @@ Allora senza perdere tempo presento la poesia in questione: scritta intorno a qu
 >*Incoerenza Strutturale*<br>
 ><br>
 >un esercizio:<br>
->- Mentale<br>
->- Cerebrale<br>
->- Anale<br>
+>- Mentale
+>- Cerebrale
+>- Anale
 >di equilibrismo metafisico<br>
 >i n g i u s t i f i c a b i l e<br>
 ><br>
@@ -132,11 +132,11 @@ Allora senza perdere tempo presento la poesia in questione: scritta intorno a qu
 ><br>
 >Morte <span style="text-decoration: underline">inodore</span><br>
 >trasmessa in:<br>
-> - full HD
-> - 1080p
-> - full optional
-> - tasso zero
-> - realtà aumentata
+>- full HD
+>- 1080p
+>- full optional
+>- tasso zero
+>- realtà aumentata
 >&nbsp;&nbsp;&nbsp;&nbsp; \*Causa paranoie\*<br>
 >lungo tutta<br>
 >&nbsp;&nbsp; la colonna<br>
