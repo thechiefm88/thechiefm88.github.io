@@ -18,7 +18,7 @@ Allora senza perdere tempo presento la poesia in questione: scritta intorno a qu
 >sganghere e storte<br>
 >nelle menti contorte<br>
 >- menti chiuse in teste
->- teste che sbattono
+>- teste che sbattono<br>
 >i n e s o r a b i l m e n t e<br>
 >contro un muro<br>
 ><br>
@@ -83,7 +83,7 @@ Allora senza perdere tempo presento la poesia in questione: scritta intorno a qu
 >un esercizio:<br>
 >- Mentale
 >- Cerebrale
->- Anale
+>- Anale<br>
 >di equilibrismo metafisico<br>
 >i n g i u s t i f i c a b i l e<br>
 ><br>
@@ -136,7 +136,7 @@ Allora senza perdere tempo presento la poesia in questione: scritta intorno a qu
 >- 1080p
 >- full optional
 >- tasso zero
->- realtà aumentata
+>- realtà aumentata<br>
 >&nbsp;&nbsp;&nbsp;&nbsp; \*Causa paranoie\*<br>
 >lungo tutta<br>
 >&nbsp;&nbsp; la colonna<br>
