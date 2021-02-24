@@ -13,77 +13,77 @@ Allora senza perdere tempo presento la poesia in questione: scritta intorno a qu
 ### Pare(t/s)i
 
 >Pozzanghere<br>
->&nbsp&nbsp&nbsp di sudore<br>
->&nbsp&nbsp&nbsp&nbsp&nbsp e lacrime<br>
+>&nbsp;&nbsp;&nbsp;di sudore<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e lacrime<br>
 >sganghere e storte<br>
 >nelle menti contorte<br>
-> - menti chiuse in teste<br>
-> - teste che sbattono<br>
+>- menti chiuse in teste
+>- teste che sbattono
 >i n e s o r a b i l m e n t e<br>
 >contro un muro<br>
 ><br>
 ><br>
->&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp DI VESTITI E<br>
->&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp DI DECENZA<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DI VESTITI E<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DI DECENZA<br>
 ><br>
 ><br>
 >processo catartico di<br>
->&nbsp&nbsp *Cannibalizzazione Emotiva*<br>
+>&nbsp;&nbsp; *Cannibalizzazione Emotiva*<br>
 ><br>
 >fagocitosi<br>
->&nbsp&nbsp&nbsp orgasmica<br>
->&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp implosiva<br>
+>&nbsp;&nbsp;&nbsp; orgasmica<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; implosiva<br>
 ><br>
 >come sbattere il pene<br>
 >ripetutamente contro un muro<br>
 ><br>
 ><br>
->&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp DI DECENZA<br>
->&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp DI VESTITI E<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DI DECENZA<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DI VESTITI E<br>
 ><br>
 ><br>
 >di pensieri contriti<br>
 >e fallaci nell'essenza<br>
-&nbsp **grossi e grassi**<br>
+&nbsp; **grossi e grassi**<br>
 ><br>
 >sentimenti immobili in un<br>
 >groviglio intestinale<br>
 >\*Impulso<br>
->&nbsp&nbsp&nbsp di<br>
->&nbsp defecare\*<br>
+>&nbsp;&nbsp;&nbsp; di<br>
+>&nbsp; defecare\*<br>
 >mucchi<br>
 ><br>
 ><br>
->&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp DI DECENZA<br>
->&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp DI VESTITI E<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DI DECENZA<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DI VESTITI E<br>
 ><br>
 ><br>
 >i n s o r m o n t a b i l i<br>
 >*Neuroni Pendolari*<br>
 >ma il treno<br>
->&nbsp&nbsp è <span style="text-decoration: underline">sbagliato</span><br>
+>&nbsp;&nbsp; è <span style="text-decoration: underline">sbagliato</span><br>
 >balzi<br>
->&nbsp&nbsp nel vuoto<br>
->&nbsp&nbsp&nbsp&nbsp di pozzanghere<br>
->&nbsp&nbsp&nbsp&nbsp&nbsp di lacrime e sudore<br>
+>&nbsp;&nbsp; nel vuoto<br>
+>&nbsp;&nbsp;&nbsp;&nbsp; di pozzanghere<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; di lacrime e sudore<br>
 ><br>
 >senza più alcun pudore<br>
 >tranne un po' di decenza<br>
->&nbsp a fiotti<br>
+>&nbsp; a fiotti<br>
 ><br>
 ><br>
->&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp DI VESTITI E<br>
->&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp DI DECENZA<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DI VESTITI E<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DI DECENZA<br>
 ><br>
 ><br>
 >ma è inconcepibilmente<br>
->&nbsp&nbsp&nbsp Necessaria<br>
+>&nbsp;&nbsp;&nbsp; Necessaria<br>
 >*Incoerenza Strutturale*<br>
 ><br>
 >un esercizio:<br>
-> - Mentale<br>
-> - Cerebrale<br>
-> - Anale<br>
+>- Mentale<br>
+>- Cerebrale<br>
+>- Anale<br>
 >di equilibrismo metafisico<br>
 >i n g i u s t i f i c a b i l e<br>
 ><br>
@@ -93,54 +93,54 @@ Allora senza perdere tempo presento la poesia in questione: scritta intorno a qu
 >tra quattro mura<br>
 ><br>
 ><br>
->&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp DI DECENZA<br>
->&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp DI VESTITI E<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DI DECENZA<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DI VESTITI E<br>
 ><br>
 ><br>
 >che celano indecenza:<br>
->&nbsp umori<br>
->&nbsp&nbsp ripartiti<br>
->&nbsp timori<br>
->&nbsp&nbsp dipartiti<br>
->&nbsp tremori<br>
->&nbsp&nbsp&nbsp compatiti<br>
->&nbsp&nbsp furori<br>
->&nbsp&nbsp&nbsp inavvertiti<br>
->&nbsp&nbsp fetori<br>
->&nbsp&nbsp&nbsp squisiti<br>
->&nbsp&nbsp fautori<br>
->&nbsp&nbsp&nbsp di fastidi<br>
->&nbsp&nbsp&nbsp&nbsp di pruriti<br>
+>&nbsp; umori<br>
+>&nbsp;&nbsp; ripartiti<br>
+>&nbsp; timori<br>
+>&nbsp;&nbsp; dipartiti<br>
+>&nbsp; tremori<br>
+>&nbsp;&nbsp;&nbsp; compatiti<br>
+>&nbsp;&nbsp; furori<br>
+>&nbsp;&nbsp;&nbsp; inavvertiti<br>
+>&nbsp;&nbsp; fetori<br>
+>&nbsp;&nbsp;&nbsp; squisiti<br>
+>&nbsp;&nbsp; fautori<br>
+>&nbsp;&nbsp;&nbsp; di fastidi<br>
+>&nbsp;&nbsp;&nbsp;&nbsp; di pruriti<br>
 >**unti** e incatramati<br>
 >per sempre entro pozzanghere<br>
->&nbsp&nbsp&nbsp di sudore<br>
->&nbsp&nbsp&nbsp&nbsp&nbsp e di lacrime<br>
+>&nbsp;&nbsp;&nbsp; di sudore<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; e di lacrime<br>
 >a milleduecentoquattro colori<br>
->&nbsp&nbsp ed un dolore\-amore\-tumore<br>
+>&nbsp;&nbsp; ed un dolore\-amore\-tumore<br>
 >*castrazione schimica*<br>
 ><br>
 >da turbinio di emozioni<br>
->&nbsp&nbsp elettroniche<br>
+>&nbsp;&nbsp; elettroniche<br>
 >schiacciato sotto<br>
->&nbsp tumuli<br>
+>&nbsp; tumuli<br>
 ><br>
 ><br>
->&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp DI DECENZA<br>
->&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp DI VESTITI E<br>
->&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp e di lacrime<br>
->&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp e sudore<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DI DECENZA<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DI VESTITI E<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; e di lacrime<br>
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; e sudore<br>
 ><br>
 >Morte <span style="text-decoration: underline">inodore</span><br>
 >trasmessa in:<br>
-> - full HD<br>
-> - 1080p<br>
-> - full optional<br>
-> - tasso zero<br>
-> - realtà aumentata<br>
->&nbsp&nbsp&nbsp&nbsp \*Causa paranoie\*<br>
+> - full HD
+> - 1080p
+> - full optional
+> - tasso zero
+> - realtà aumentata
+>&nbsp;&nbsp;&nbsp;&nbsp; \*Causa paranoie\*<br>
 >lungo tutta<br>
->&nbsp&nbsp la colonna<br>
->&nbsp&nbsp&nbsp vertebrale<br>
+>&nbsp;&nbsp; la colonna<br>
+>&nbsp;&nbsp;&nbsp; vertebrale<br>
 >corto circuito<br>
 
 Innanzitutto c'è una forte ispirazione stilistica alle mie letture recenti[^2], ci sono molti espedienti grafici e non.<br>
