@@ -135,7 +135,7 @@ Questo è fatto col più estremo multilinguismo, parola dello stesso Giuliani, t
 Lascio in merito la parte 2 da "Erotopaegnia", senza fermarmici sopra in dettaglio (come ho già etto parlerò sicuramente di Sanguineti più approfonditamente in futuro), ma per dare un assaggio di ciò di cui parlo.<br>
 Si parla di un aborto:
 
->quale raptus (cadded!) pustoloso apparve forse amore (τέχνον) involuta<br>
+>quale raptus (cadde!) pustoloso apparve forse amore (τέχνον) involuta<br>
 >(cerebrum); (fortitudo) lasciammo la città; (magro corpo!): <<res quaedam>>;<br>
 >in telo pustolosa, ut dicunt MEDICI; quel giorno! di ottobre!(caloris!);<br>
 >(e il quarantesimo giorno...): evacuatum; in acqua freda (frigida) evacuatum;<br>
@@ -154,7 +154,7 @@ Si parla di un aborto:
 
 ## [Nanni Balestrini](https://it.wikipedia.org/wiki/Nanni_Balestrini)
 
-Di Balestrini abbiamo già parlato in precedenza in (questo post)[https://thechiefm88.github.io/2020/12/04/la-violenza-illustrata.html] su "La Nuova Violenza Illustrata".<br>
+Di Balestrini abbiamo già parlato in precedenza in [questo post](https://thechiefm88.github.io/2020/12/04/la-violenza-illustrata.html) su "La Nuova Violenza Illustrata".<br>
 E' rassicurante il fatto che il grosso della mia analisi fatta in tale sede trovi riscontro nelle parole di Giuliani in introduzione: l'uso compulsivo di materiale esterno che, manipolato sapientemente e ricomposto, si fa poprtatore di altri e nuovi significati, eretti sulle ossa dei precedenti, in un processo che mi pare oggi azzeccato definire ecologico, nel senso che le particelle compositive vengono rimacinate in qualcosaltro di nuovo ed autonomo in cui tuttavia sopravvivono, trovando nuova ragione nel significare, materialmente, ciò che li sosttuisce.
 
 Tanto meglio riesce a spiegare la sua poetica l'autore stesso a fine libro, affermando di cerecare di replicare l'effetto che si ha quando si nota <<nello sclerotico e automatico abuso di frasi fatte e di espressioni convenzionali [...] un improvviso scattare di impreveduti accostamenti, di ritmi inconsueti, di involontarie metafore>>.<br>
