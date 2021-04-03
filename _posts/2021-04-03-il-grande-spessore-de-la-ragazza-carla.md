@@ -28,8 +28,8 @@ Sono emblematici da questo punto di vista un estratto della parte 4 del capitolo
 >dabbasso è lei che applaude<br>
 >e zitti Carla e Aldo a guardare<br>
 >mentre Mizar fa il matto<br>
->&nsbp;&nsbp;&nsbp;&nsbp; poi dice <<a lavorare>> un po' più calmo<br>
->&nsbp;&nsbp;&nsbp;&nsbp; quando vede la celere di scorta.
+>&nbsp;&nbsp;&nbsp;&nbsp; poi dice <<a lavorare>> un po' più calmo<br>
+>&nbsp;&nbsp;&nbsp;&nbsp; quando vede la celere di scorta.
 
 E anche l'inizio della partre 5 dello stesso capitolo:
 
