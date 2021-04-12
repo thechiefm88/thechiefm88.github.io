@@ -8,9 +8,9 @@ Dopo diversi mesi di gestazione ho concluso la mia ultima raccolta.<br>
 Ho recentemente ultimato la grafica della copertina fronte e retro e, in concomitanza a questo post, l'ho caricata sul blog, nella vetrina delle opere.
 
 Personalmente l'ho vissuta come un momento prolungato di ispirazione legata anche alle varie letture, approfondimenti e studi di questi mesi.<br>
-Forse proprio per via di questi impegni il risultato finale potrebbe sembrare meno sperimentale e caotico, più assestatop; Almeno questa è la mia impressione.
+Forse proprio per via di questi impegni il risultato finale potrebbe sembrare meno sperimentale e caotico, più assestato; Almeno questa è la mia impressione.
 
-Partiamo dal titolo: la principale ispirazione per titolo e atmosfera è stata l'opera di Jean-Francois Lyotard "La Condizione Postmoderna", di cui uno spezzone particolarmente significativo è infatti riportato in retro copertina.<br>
+Partiamo dal titolo: la principale ispirazione per titolo e atmosfera è stata l'opera di [Jean-Francois Lyotard](https://plato.stanford.edu/entries/lyotard/) ["La Condizione Postmoderna"](https://www.ibs.it/condizione-postmoderna-rapporto-sul-sapere-libro-j-francois-lyotard/e/9788807883965), di cui uno spezzone particolarmente significativo è infatti riportato in retro copertina.<br>
 Da questa ispirazione fondamentale prende le mosse un filone narrativo concettualmente piuttosto coeso, in cui l'ordine delle poesie rappresenta un susseguirsi logico di suggestioni.<br>
 Una delle particolarità maggiori, rispetto ad altre mie opere, è infatti la struttura ben più legata e fitta.
 
