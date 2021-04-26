@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Corazzini 1904-1905: 1, "Dolcezze"
+title: Corazzini 1904-1905 1, "Dolcezze"
 date: 2021-04-26
 author: MDA DS
 ---
