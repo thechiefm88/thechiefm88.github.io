@@ -54,7 +54,7 @@ Di un a bellezza a dir poco estrema, riporto ora il testo completo, seguirà un 
 >   
 >ne le mani conserte,   
 >sopra i piedini lievi   
->- e tu non le vedevi&nbsp;&nbsp;&nbsp;&nbsp;35   
+>\- e tu non le vedevi&nbsp;&nbsp;&nbsp;&nbsp;35   
 >con le pupille aperte -   
 >   
 >rose dovunque, fra i   
