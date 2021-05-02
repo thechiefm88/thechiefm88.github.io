@@ -6,7 +6,7 @@ author: MDA DS
 ---
 Sulla scia del [precedente post](https://thechiefm88.github.io/2021/04/26/corazzini-1-dolcezze.html), il primo della serie su Corazzini, ho deciso di fare un approfondimento su uno dei pezzi di "Dolcezze" che mi ha colpito di più.<br>
 Si tratta di "Follie", che ricopre l'undicesima posizione in raccolta, emblematicamente dopo "Il fanciullo suicida", quasi a costituire un blocco tematico.<br>
-Di un a bellezza a dir poco estrema, riporto ora il testo completo, seguirà un tentativo di analisi:
+Di una bellezza a dir poco estrema, riporto ora il testo completo, seguirà un tentativo di analisi:
 
 ### Follie
 
@@ -207,4 +207,4 @@ Arriviamo così all'ultima parte, le ultime tre quartine, che riprende e capovol
 Tramite l'interiorizzazione del lutto, tramutatosi in ricordo compulsivo, come la ripetizione "Madonna" a fine vv. 121 e 124 infatti sottolinea, anticipata dalla stessa ripetizione ma ad inizio vv. 89 e 92, in un punto chiave, come già precisato, della narrazione, che fa tra l'altro da spartiacque rispetto al più dimesso e affranto "Madonna" ad inizio v. 1, la mente del poeta può ricomporssi e ritrovare il sole ed il cielo (notare i vv. 125 e 130), perduti a inizio componimento (notare invece i vv. 3-4), e con essi delle fattezze di realtà; Il prezzo tuttavia è stato alto, la realtà ritrovata è irrimediabilmente alterata dall'immagine e dal ricordo della fanciulla, si è compiuta definitivamente la discesa nella pazzia, vero soggetto di questa strabiliante lirica.
 
 La notevolezza qui sta nel fatto che tramite le variegate fasi del componimente, cioè: introduzione, lutto pubblico, lutto personale, fine del lutto, ricordo e chiusura, si riescono a rioconoscere le importanti suggestioni di Corazzini, sia interne che esterne, che saranno gli elementi fondanti della raccolta tutta.   
-In questo senso, infatti, la sua lettura ed analisi risulta estremamente propedeutica alla copmprensione di "Dolcezze".
+In questo senso, infatti, la sua lettura ed analisi risulta estremamente propedeutica alla comprensione di "Dolcezze".
