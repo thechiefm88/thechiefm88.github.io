@@ -4,7 +4,7 @@ title: Un approfondimento, "Follie"
 date: 2021-05-02
 author: MDA DS
 ---
-Sulla scia dello scorso post, il primo della serie su Corazzini, ho deciso di fare un approfondimento su uno dei pezzi di "Dolcezze" che mi ha colpito di più.<br>
+Sulla scia del [precedente post](https://thechiefm88.github.io/2021/04/26/corazzini-1-dolcezze.html), il primo della serie su Corazzini, ho deciso di fare un approfondimento su uno dei pezzi di "Dolcezze" che mi ha colpito di più.<br>
 Si tratta di "Follie", che ricopre l'undicesima posizione in raccolta, emblematicamente dopo "Il fanciullo suicida", quasi a costituire un blocco tematico.<br>
 Di un a bellezza a dir poco estrema, riporto ora il testo completo, seguirà un tentativo di analisi:
 
