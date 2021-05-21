@@ -37,9 +37,9 @@ in cui le parti di verso non ripetute sono profondamente assonanti (sorvolando "
 La ripetizione "foglie e speranze" che si spacca tra un verso e l'altro enfatizza terribilmente il presagito significato funereo.    
 Altro esempio il terzo verso delle quartine di "isola dei morti":
 
->il tragico fanale della Morte
->[...]
->ove già tante creature morte
+>il tragico fanale della Morte    
+>[...]    
+>ove già tante creature morte    
 
 che mostra una ripetizione in cui cambia il valore logico del termine morte (sostantivo prima e aggettivo dopo).
 
