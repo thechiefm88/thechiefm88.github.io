@@ -24,8 +24,8 @@ In cui quello che sarebbe un perfetto endecasillabo viene devastato dall'aggiunt
 In cui la lettura di un perfetto alessandrino costringe ad accettare la cesura a metà della parola "piccolo", con le sue terribili conseguenze in quanto spaccando il naturale ritmo in modo così forte mette ancor di più l'accento sull'aggettivo e sul suo soggetto, il "piccolo fanciullo malato".     
 Ancora "spleen" vv.14-15:
 
->Sei triste, mi dai p__e__n__a__&nbsp;&nbsp;&nbsp;&nbsp;[7]       
->questa s__e__r__a__; non c__a__nt__i__, non mi p__a__rl__i__&nbsp;&nbsp;&nbsp;&nbsp;[11]
+>Sei triste, mi dai p*e*n*a*&nbsp;&nbsp;&nbsp;&nbsp;[7]       
+>questa s*e*r*a*; non c*a*nt*i*, non mi p*a*rl*i*&nbsp;&nbsp;&nbsp;&nbsp;[11]
 
 In cui la seconda parte del v. 14 e la prima del v. 15 formano una coppia di quaternari assonanti in punta cui segue la seconda parte del v. 15 che forma un settenario a ricalco del v. 14 (3+4) ancora con assonanza interna, quindi un forte gioco di suggestioni metriche che scompongono e ricompongono su più livelli i versi; Notevoli anche le numerose "a" ed "i" (anche subito successivamente) che ribadiscono anche foneticamente la sensazione di lamento e pena.
 
