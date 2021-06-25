@@ -15,17 +15,17 @@ Su questa impalcatura, le poesie che maggiormente accolgono e raccolgono il lett
 Se quindi, sommariamente, da un punto di vista strutturale "Le Aureole" disegna una fase discendente, chiaramente organica a quella, pertanto, ascendente della raccolta precedente, l'aspetto straordinario è piuttosto quello stilistico: L'allontanamento da canoni collaudati assume proporzioni inaspettate, troviamo notevolissimi momenti di non-lucidità metrica nelle escursioni, che coprono complessivamente uno spettro che va dal trisillabo all'alessandrino e addirittura doppio novenario, nell'uso di tronchi e sdruccioli, decisamente poco comune nelle precedenti, che turbano l'andamento, ad ultimo nel libero uso, e non uso, delle rime.     
 In questi versi Corazzini raggiunge forse la più piena potenza espressiva ed eleganza della sua produzione; Ne sono esempi: "la finestra aperta sul mare" v. 10[^2]
 
->La finestra di una torre | in mezzo^al mare, desolata&nbsp;&nbsp;&nbsp;&nbsp;[9+9]
+>La finestra di una torre \| in mezzo^al mare, desolata&nbsp;&nbsp;&nbsp;&nbsp;[9+9]
 
 In cui quello che sarebbe un perfetto endecasillabo viene devastato dall'aggiunta del termine "desolata" che forza una rilettura metrica che scivola nel rallentamenteo e nella soppressione delle sinalefi altrimenti ovvie, mettendo in atto quella desolazione snche stilisticamente; Ancora il v.39:
 
->e ore, come^un picco|lo fanciullo malato.&nbsp;&nbsp;&nbsp;&nbsp;[7+7]
+>e ore, come^un picco\|lo fanciullo malato.&nbsp;&nbsp;&nbsp;&nbsp;[7+7]
 
 In cui la lettura di un perfetto alessandrino costringe ad accettare la cesura a metà della parola "piccolo", con le sue terribili conseguenze in quanto spaccando il naturale ritmo in modo così forte mette ancor di più l'accento sull'aggettivo e sul suo soggetto, il "piccolo fanciullo malato".     
 Ancora "spleen" vv.14-15:
 
->Sei triste, mi dai p**e**n**a**&nbsp;&nbsp;&nbsp;&nbsp;[7]
->questa s**e**r**a**; non c**a**nt**i**, non mi p**a**rl**i**&nbsp;&nbsp;&nbsp;&nbsp;[11]
+>Sei triste, mi dai p__e__n__a__&nbsp;&nbsp;&nbsp;&nbsp;[7]       
+>questa s__e__r__a__; non c__a__nt__i__, non mi p__a__rl__i__&nbsp;&nbsp;&nbsp;&nbsp;[11]
 
 In cui la seconda parte del v. 14 e la prima del v. 15 formano una coppia di quaternari assonanti in punta cui segue la seconda parte del v. 15 che forma un settenario a ricalco del v. 14 (3+4) ancora con assonanza interna, quindi un forte gioco di suggestioni metriche che scompongono e ricompongono su più livelli i versi; Notevoli anche le numerose "a" ed "i" (anche subito successivamente) che ribadiscono anche foneticamente la sensazione di lamento e pena.
 
