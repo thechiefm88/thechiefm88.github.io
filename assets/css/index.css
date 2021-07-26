@@ -8,7 +8,7 @@ div.background{
 	height: 100%;
 	width: 100%;
 
-	background: black url(background.png) no-repeat fixed;
+	background: black url(background.png) no-repeat scroll;
 	background-size: cover;
 }
 
