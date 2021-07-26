@@ -5,11 +5,6 @@ body{
 	font-family: Verdana, sans-serif;
 	font-size: 18px;
 }
-@media (orientation:portrait){
-	body{
-		transform:rotate(90deg);
-	}
-}
 
 p{
 	background-color: #a30202;
