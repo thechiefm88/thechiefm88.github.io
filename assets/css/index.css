@@ -10,7 +10,7 @@ div.background{
 	width: 100%;
 	z-index: -1;
 
-	background: black url(background.png) no-repeat local;
+	background: black url(background.png) no-repeat scroll;
 	background-size: cover;
 }
 
@@ -63,8 +63,6 @@ div.vetrina{
 
 	background-color: #a30202;
 
-	overflow-y: scroll;
-
 	color: white;
 }
 td.cella{
@@ -84,8 +82,6 @@ div.core{
 	padding-top: -100px;
 	margin-left: 5%;
 	margin-right: 35%;
-	
-	overflow-y: scroll;
 }
 
 h1.linkpost{
