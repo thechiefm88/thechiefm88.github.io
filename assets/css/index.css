@@ -16,7 +16,7 @@ div.background:before{
 	width: 100%;
 	z-index: -1;
 
-	background: black url(background.png) no-repeat fixed;
+	background: url(background.png) no-repeat fixed;
 	background-size: cover;
 
 }
