@@ -1,7 +1,4 @@
 body{
-	background: black no-repeat fixed;
-	background-size: cover;
-
 	font-family: Verdana, sans-serif;
 	font-size: 18px;
 }
@@ -16,13 +13,13 @@ div.background:before{
 	width: 100%;
 	z-index: -1;
 
-	background: black url(background.png) no-repeat fixed;
+	background: url(background.png) no-repeat fixed;
 	background-size: cover;
 
 }
 @media (orientation:portrait){
 	div.background:before{
-		transform:rotate(90deg);
+		transform: rotate(90deg);
 	}
 }
 
