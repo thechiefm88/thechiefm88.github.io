@@ -10,7 +10,7 @@ div.background{
 	width: 100%;
 	z-index: -1;
 
-	background: black url(background.png) no-repeat scroll;
+	background: black url(background.png) no-repeat fixed;
 	background-size: cover;
 }
 
