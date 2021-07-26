@@ -22,32 +22,32 @@ Ecco il testo:
 >ma datti una mossa patate-trac!    
 >comunicazione interna: (fuck...)    
 >Gualtiero in cassa tré, tonnoré flic    
->cioccolatomadagascar72%...    
->CIOCCOLATOMADAGASCAR72%!...    
+>cioccolatomadagascar72\%...    
+>CIOCCOLATOMADAGASCAR72\%!...    
 >un improvviso sbuffo-sbadiglio    
 >mi fa cascar le braccia e il mento    
 >sbliribiribim-bom cioccolatomadagascar72%     
 >2,29€ (peggio mi sento)     
 >scusi ma    
->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c'era scritto      
->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;un-euro-e-ottantanove    
+>&nbsp;&nbsp;&nbsp;c'era scritto
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;un-euro-e-ottantanove    
 >solo per chi ha la carta    
 >capisco e    
->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mi scusi l'errore     
->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;allora me lo scarta     
+>&nbsp;&nbsp;&nbsp;mi scusi l'errore     
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;allora me lo scarta     
 >un altro sbadiglio-sbuffo      
 >mi sento in colpa e le dico     
 >buffo    
->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;quando sono stato     
->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in Madagascar      
->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cioccolato non ce n'era     
+>&nbsp;&nbsp;&nbsp;quando sono stato     
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in Madagascar      
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cioccolato non ce n'era     
 >sale himalaya flop     
 >57,34€, contati o carta?     
 >pago pos    
 >contact?    
 >'fcourse      
 >grazie e buona notte     
->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ops     
+>&nbsp;&nbsp;&nbsp;ops     
 
 Ci sono diversi aspetti interessanti, che tra l'altro ho in parte reiterato in altre poesie su questo modello: in primis una certa chiara distinzione dei dialoghi dal resto della narrazione, sulla base di espedienti tecnici, in particolare l'uso di rime regolari e la gradinatura, che fuori dal contesto dialogato mancano.    
 Questo espediente è interessante perché cerca di dare un senso di artificiosità, proprio in quei momenti in cui ci si aspetterebbe una certa naturalezza discorsiva, corda che viene tirata fino alle estreme conseguenze fino quasi a spezzarsi in chiusura, in cui la "stramberia" schivata al penultimo verso è seguita da "ops", anagramma di "pos" che ricollega alla precedente cascata di termini.
