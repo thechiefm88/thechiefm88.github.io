@@ -4,10 +4,6 @@ body{
 }
 
 div.backgroung{
-	position: relative;
-	overflow: hidden;
-}
-div.background:before{
 	position: absolute;
 	height: 100%;
 	width: 100%;
@@ -15,10 +11,10 @@ div.background:before{
 
 	background: url(background.png) no-repeat fixed;
 	background-size: cover;
-
 }
+
 @media (orientation:portrait){
-	div.background:before{
+	div.background{
 		transform: rotate(90deg);
 	}
 }
