@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Canti da Castelvecchio 1: La Poesia
+title: Canti da Castelvecchio 1&#58 "La Poesia"
 date: 2021-11-24
 author: MDA DS
 ---
