@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Canti da Castelvecchio 1: "La Poesia"
+title: Canti da Castelvecchio 1: La Poesia
 date: 2021-11-24
 author: MDA DS
 ---
+
 Come avevo in programma da molto, mi sto dedicando, negli spazi tra lavoro e studio, ai "canti di castelvecchio" di Giovanni Pascoli.
 
 Già da quando ho iniziato la raccolta era chiaro che avrei dovuto dedicargli qualche articolo, pertanto l'incognita era solo nella modalità e alla fine ho deciso, piuttosto che un singolo post sull'intera opera, che sarebbe risultato lungo e probabilmente complicato, di fare una serie in cui, zoomando ogni volta su un singolo pezzo della raccolta, avrei potuto meglio evidenziare tanto la particolarità quanto le generalità.
