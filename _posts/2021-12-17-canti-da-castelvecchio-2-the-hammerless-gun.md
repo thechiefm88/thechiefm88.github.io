@@ -133,7 +133,7 @@ Fatte queste dovutissime premesse, e preparatomi psicologicamente all'impresa di
 >    
 >### IL PITTIERE    
 >    
->- _tin tin_! anche te? che c'invidi    
+>\- _tin tin_! anche te? che c'invidi    
 >due pippoli e due gremignoli?&nbsp;&nbsp;&nbsp;&nbsp; 90    
 >_tin tin_, te che piangi sui nidi    
 >che pìano pìano soli?    
@@ -150,7 +150,7 @@ Fatte queste dovutissime premesse, e preparatomi psicologicamente all'impresa di
 >    
 >### LA CAPINERA     
 >    
->- _tac tac_! anche te? non rammenti&nbsp;&nbsp;&nbsp;&nbsp; 100    
+>\- _tac tac_! anche te? non rammenti&nbsp;&nbsp;&nbsp;&nbsp; 100    
 >le sere di quella tua mesta    
 >città? le tue lagrime ardenti?    
 >quel canto d'ignota foresta    
@@ -167,7 +167,7 @@ Fatte queste dovutissime premesse, e preparatomi psicologicamente all'impresa di
 >    
 >### L'ALLODOLA    
 >    
->- _uid uid_! anche tu ci fai guerra?    
+>\- _uid uid_! anche tu ci fai guerra?    
 >tu che ci assomigli pur tanto,    
 >col nido tra il grano, per terra,    
 >ma sopra le nubi, col canto?    
