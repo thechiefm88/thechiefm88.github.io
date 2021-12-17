@@ -10,41 +10,41 @@ La scelta è stata presa in parte perchè il pezzo è estremamente importante e 
 
 Fatte queste dovutissime premesse, e preparatomi psicologicamente all'impresa di copiarlo in markdown, segue il testo integrale:
 
->> _To the children Percy and Valente de Bosis
+>> _To the children Percy and Valente de Bosis_
 >
 >Dunque un _hammerless_! un... _hammerless_! (dono    
 >del vostro babbo, o Percy, o Valentino;    
 >del nostro Adolfo, il sapiente, il buono    
 >    
 >simposiarco)... O montanine belle,    
->lo vedrete il maestro di latino!    
+>lo vedrete il maestro di latino!&nbsp;&nbsp;&nbsp;&nbsp; 5    
 >sì, lo vedrete il pedagogo imbelle!    
 >    
 >E lungamente mi sorriderete,    
 >quando venite ai Vespri a questa Cura    
 >di San Nicola. Un _hammerless_! Sapete?    
 >    
->che non ha cani: a triplice chiusura.     
->'<'<Bello, mi dica: quello del Fusari...'>'>    
->'<'<Questo è un _hammerless_!'>'> '<'<Quello non ha cani'>'>.    
+>che non ha cani: a triplice chiusura.&nbsp;&nbsp;&nbsp;&nbsp; 10     
+>«Bello, mi dica: quello del Fusari...»    
+>«Questo è un _hammerless_!» «Quello non ha cani».    
 >    
->'<'<Questo è inglese!'>'> Ah! _inghilese_! '<'<Di Field, cari!'>'>    
+>«Questo è inglese!» Ah! _inghilese_! «Di Field, cari!»    
 >Tacciono: io regno indifferente e cupo.    
->'<'<Codeste selve batterò domani...'>'>    
+>«Codeste selve batterò domani...»&nbsp;&nbsp;&nbsp;&nbsp; 15    
 >     
->tra me dico, a voce alta. '<'<In bocca al lupo!'>'>    
+>tra me dico, a voce alta. «In bocca al lupo!»    
 >Ecco l'alba (tra selve aride i fossi    
 >vanno col fumo di vaporiere),    
 >    
 >piena d'un tintinnìo di pettirossi,    
->cui risponde un _tac tac_ di capinere...    
+>cui risponde un _tac tac_ di capinere...&nbsp;&nbsp;&nbsp;&nbsp; 20    
 >Su la nebbia che fuma dal sonoro    
 >     
 >Serchio, leva la Pania alto la fronte    
 >nel sereno: un aguzzo blocco d'oro,    
 >su cui piovano petali di rose    
 >    
->appassite. Io che l'amo, il vecchio monte,    
+>appassite. Io che l'amo, il vecchio monte,&nbsp;&nbsp;&nbsp;&nbsp; 25    
 >gli parlo ogni alba, e molte dolci cose     
 >    
 >gli dico:    
@@ -53,79 +53,79 @@ Fatte queste dovutissime premesse, e preparatomi psicologicamente all'impresa di
 >    
 >O monte, che regni tra il fumo    
 >del nembo, e tra il lume degli astri,    
->tu nutri nei poggi il profumo    
+>tu nutri nei poggi il profumo&nbsp;&nbsp;&nbsp;&nbsp; 30    
 >di timi, di mente e mentastri.    
 >    
 >Tu pascoli le api, o gigante:    
 >tu meni nei borri profondi    
 >la piccola greggia ronzante.    
 >     
->Sei grande, sei forte: e dai cavi     
+>Sei grande, sei forte: e dai cavi&nbsp;&nbsp;&nbsp;&nbsp; 35     
 >tuoi massi tu gemi, tu grondi     
 >del limpido flutto dei favi.    
 >    
 >Sei buono tu, grande tra i grandi:    
 >né spregi la nera capanna.    
->Al pio boscaiolo tu mandi     
+>Al pio boscaiolo tu mandi&nbsp;&nbsp;&nbsp;&nbsp; 40     
 >sovente la ricca tua manna.    
 >    
 >Gli mandi un tuo sciame, che scende    
 >giù giù per la valle remota,    
 >qual tremulo nuvolo, e splende.    
 >     
->Lo segue un tumulto canoro;    
+>Lo segue un tumulto canoro;&nbsp;&nbsp;&nbsp;&nbsp; 45    
 >ché timpani, cembali, crotali    
 >chiamano il nuvolo d'oro. '-    
 >     
 >Dico: egli ride roseo, ma scorso    
 >il suo minuto, ridoventa azzurro    
->e grave. Io scendo lungo il Rio dell'Orso,    
+>e grave. Io scendo lungo il Rio dell'Orso,&nbsp;&nbsp;&nbsp;&nbsp; 50    
 >ne seguo un poco il fievole sussurro.    
 >    
 >E me segue un _tac tac_ di capinere,    
 >e me segue un _tin tin_ di pettirossi,    
 >un _zisteretetet_ di cincie, un _rererere_    
 >     
->di cardellini. Giungo dove il greto    
+>di cardellini. Giungo dove il greto&nbsp;&nbsp;&nbsp;&nbsp; 55    
 >s'allarga, pieno di cespugli rossi    
 >di vetrici: il mio luogo alto e segreto.    
 >    
 >Giungo: e ne suona qualche frullo, un misto     
 >di gridii, pigolii, scampanellii,    
->che cessa a un tratto. L'_hammerless_ m'ha visto    
+>che cessa a un tratto. L'_hammerless_ m'ha visto&nbsp;&nbsp;&nbsp;&nbsp; 60    
 >un fringuello, che fa: Zitti! _sii sii_    
 >    
 >(_sii sii_ è nella lingua dei fringuelli    
 >quello che _hush_ o _still_, o Percy, in quella    
 >di mamma: zitti! tacciano i monelli)...    
 >    
->E sento _tellterelltelltelltelltell_ (sai?    
+>E sento _tellterelltelltelltelltell_ (sai?&nbsp;&nbsp;&nbsp;&nbsp; 65    
 >_tellterelltelltelltell_ nella favella    
 >dei passeri vuol dire _come out_! _fly_!    
 >    
 >scappa, _boy_, c'è il _babau_!)... Dunque più nulla.    
 >Silenzio. Odo un ruscello che gorgoglia,    
->e non altro. Il fringuello agile frulla    
+>e non altro. Il fringuello agile frulla&nbsp;&nbsp;&nbsp;&nbsp; 70    
 >e, lontano, _finc finc_... Cade una foglia...    
 >    
 >Proprio l'ultima (guardo) d'un querciolo    
 >secco! È bastato il soffio di quell'ala,    
 >è bastata la molla di quel volo:    
 >    
->eccola giù. Mi siedo sopra il greppo.    
+>eccola giù. Mi siedo sopra il greppo.&nbsp;&nbsp;&nbsp;&nbsp; 75    
 >Era come una spoglia di cicala    
 >(penso), rimasta a quel non più che un ceppo:    
 >     
 >era gialla, era gracile; ma era    
 >l'ultima; che più dì, pendula, tenne...    
->Come il povero vecchio ora dispera,    
+>Come il povero vecchio ora dispera,&nbsp;&nbsp;&nbsp;&nbsp; 80    
 >vicino al Rio che mormora perenne!    
 >    
 >Sono mesto. Perché? Non lo so dire.    
 >Intanto, tra le canne, tra la stipa,    
 >sento un brusire ed uno squittinire,    
 >    
->che dico? un parlottare piano piano.    
+>che dico? un parlottare piano piano.&nbsp;&nbsp;&nbsp;&nbsp; 85    
 >Ma sì, parlano a me, che dalla ripa    
 >tacito ascolto, il mento sulla mano.    
 >    
@@ -133,59 +133,59 @@ Fatte queste dovutissime premesse, e preparatomi psicologicamente all'impresa di
 >    
 >### IL PITTIERE    
 >    
->'- _tin tin_! anche te? che c'invidi    
->due pippoli e due gremignoli?    
+>- _tin tin_! anche te? che c'invidi    
+>due pippoli e due gremignoli?&nbsp;&nbsp;&nbsp;&nbsp; 90    
 >_tin tin_, te che piangi sui nidi    
 >che pìano pìano soli?    
 >    
 >Si viene, tu vedi, da bianche    
 >montagne, da boschi d'abeti,    
->con l'ale, puoi credere, stanche.    
+>con l'ale, puoi credere, stanche.&nbsp;&nbsp;&nbsp;&nbsp; 95    
 >     
 >Si fa questi bruci, che sono    
 >nei bussoli e negli scopeti...    
->Sapessi che fame!... Sii buono! '-    
+>Sapessi che fame!... Sii buono! -    
 >    
 >E poi:    
 >    
 >### LA CAPINERA     
 >    
->'- _tac tac_! anche te? non rammenti    
+>- _tac tac_! anche te? non rammenti&nbsp;&nbsp;&nbsp;&nbsp; 100    
 >le sere di quella tua mesta    
 >città? le tue lagrime ardenti?    
 >quel canto d'ignota foresta    
 >    
 >tra l'onda di tante campane,    
->tanti urli di folla, e tra il sordo    
+>tanti urli di folla, e tra il sordo   105  
 >fragore di ruote lontane?    
 >    
 >Piangevi: e saliva il mio canto,    
 >con l'eco d'antico ricordo,    
->col suono di nuovo rimpianto. '-    
+>col suono di nuovo rimpianto. -    
 >    
->E poi:    
+>E poi: &nbsp;&nbsp;&nbsp;&nbsp; 110    
 >    
 >### L'ALLODOLA    
 >    
->'- _uid uid_! anche tu ci fai guerra?    
+>- _uid uid_! anche tu ci fai guerra?    
 >tu che ci assomigli pur tanto,    
 >col nido tra il grano, per terra,    
 >ma sopra le nubi, col canto?    
 >    
->Te rode una cura segreta;    
+>Te rode una cura segreta;&nbsp;&nbsp;&nbsp;&nbsp; 115    
 >tu cerchi l'oblìo de' tuoi mali.    
 >Ma sei come tutti, o poeta?    
 >    
 >Tu piangi il tuo povero nido    
 >per terra... Ma vieni, ma sali,    
->ma lancia nel sole il tuo grido! '-    
+>ma lancia nel sole il tuo grido! -&nbsp;&nbsp;&nbsp;&nbsp; 120    
 >    
->Cara allodola! '- E dopo? '- Dopo? Impugno    
+>Cara allodola! - E dopo? - Dopo? Impugno    
 >l'_hammerless_ e... ritorno via. Si rischia    
 >d'infreddare: gennaio non è giugno.    
 >     
 >Tra i ginepri c'è un merlo che mi fischia.    
->E un forasiepe: '- Eh! tu torni... so dove.    
+>E un forasiepe: - Eh! tu torni... so dove.&nbsp;&nbsp;&nbsp;&nbsp; 125    
 >Oh! il tuo bel nido, che nemmen ci piove!
 
 Prima di buttarci in un'analisi più dettagliata facciamo un po' di ordine strutturale: il componimento è diviso in modo piuttosto regolare in 7 parti: una introduzione, la Pania che consta di due parti ben distinte metricamente, il pittiere, la capinera e l'allodola seguita da due terzine di chiusura.    
