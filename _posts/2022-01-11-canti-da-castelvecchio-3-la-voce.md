@@ -13,100 +13,100 @@ Partiamo subito dal testo, di cui vedremo immediatamente le caratteristiche stru
 >voce stanca, voce smarrita,       
 >col tremito del batticuore:       
 >       
->voce d'una accorsa anelante, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5       
+>voce d'una accorsa anelante,&nbsp;&nbsp;&nbsp;&nbsp;5       
 >che al povero petto s'afferra        
 >per dir tante cose e poi tante,       
 >ma piena ha la bocca di terra:       
 >       
 >tante tante cose che vuole       
->ch'io sappia, ricordi, sì... sì... &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10         
+>ch'io sappia, ricordi, sì... sì...&nbsp;&nbsp;&nbsp;&nbsp;10         
 >ma di tante tante parole       
 >non sento che un soffio... _Zvanî_...       
 >        
 >Quando avevo tanto bisogno      
 >di pane e di compassione,      
->che mangiavo solo nel sogno, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;15      
+>che mangiavo solo nel sogno,&nbsp;&nbsp;&nbsp;&nbsp;15      
 >svegliandomi al primo boccone;      
 >       
 >una notte, su la spalletta      
 >del Reno, coperta di neve,      
 >dritto e solo (passava in fretta      
->l'acqua brontolando, si beve?); &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20     
+>l'acqua brontolando, si beve?);&nbsp;&nbsp;&nbsp;&nbsp;20     
 >       
 >dritto e solo, con un gran pianto       
 >d'avere a finire così,        
 >mi sentii d'un tratto d'accanto      
 >quel soffio di voce... _Zvanî_...       
 >      
->Oh! la terra , com'è cattiva! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;25       
+>Oh! la terra , com'è cattiva!&nbsp;&nbsp;&nbsp;&nbsp;25       
 >la terra, che amari bocconi!        
 >Ma voleva dirmi, io capiva:       
->- No... no... di' le devozioni!       
+>\- No... no... di' le devozioni!       
 >         
 >le dicevi con me pian piano,      
->con sempre la voce più bassa: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;30       
+>con sempre la voce più bassa:&nbsp;&nbsp;&nbsp;&nbsp;30       
 >la tua mano nella mia mano:      
 >ridille! vedrai che ti passa.       
 >       
 >Non far piangere piangere piangere      
 >(ancora!) chi tanto soffrì!       
->il tuo pane, prega il tuo angelo &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;35     
+>il tuo pane, prega il tuo angelo&nbsp;&nbsp;&nbsp;&nbsp;35     
 >che te lo porti... _Zvanî_... -      
 >       
 >Una notte dalle lunghe ore     
 >(nel carcere!), che all'improvviso       
 >dissi - Avresti molto dolore,      
->tu, se non t'avessero ucciso, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;40     
+>tu, se non t'avessero ucciso,&nbsp;&nbsp;&nbsp;&nbsp;40     
 >      
 >ora, o babbo! - che il mio pensiero,      
 >dal carcere, con un lamento,      
 >vide il babbo nel cimitero,     
 >le pie sorelline in convento:      
 >      
->e che agli uomini, la mia vita, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;45     
+>e che agli uomini, la mia vita,&nbsp;&nbsp;&nbsp;&nbsp;45     
 >volevo lasciargliela lì...      
 >risentii la voce smarrita      
 >che disse in un soffio... _Zvanî_...     
 >     
 >Oh! la terra come è cattiva!      
->non lascia discorrere poi! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;50     
+>non lascia discorrere poi!&nbsp;&nbsp;&nbsp;&nbsp;50     
 >Ma voleva dirmi, io capiva:     
->- Piuttosto di' un requie per noi!     
+>\- Piuttosto di' un requie per noi!     
 >      
 >Non possiamo nel camposanto     
 >più prendere sonno un minuto,     
->ché sentiamo struggersi in pianto &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;55      
+>ché sentiamo struggersi in pianto&nbsp;&nbsp;&nbsp;&nbsp;55      
 >le bimbe che l'hanno saputo!      
 >       
 >Oh! la mia vita che ti diedi       
 >per loro, lasciarla vuoi qui?     
 >qui, mio figlio? dove non vedi     
->chi uccise tuo padre... _Zvanî_?... - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;60    
+>chi uccise tuo padre... _Zvanî_?... -&nbsp;&nbsp;&nbsp;&nbsp;60    
 >      
 >Quante volte sei rinvenuta     
 >nei cupi abbandoni del cuore,     
 >voce stanca, voce perduta,     
 >col tremito del batticuore:     
 >      
->voce d'una accorsa anelante &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;65     
+>voce d'una accorsa anelante&nbsp;&nbsp;&nbsp;&nbsp;65     
 >che ai poveri labbri si tocca     
 >per dir tante cose e poi tante;      
 >ma piena di terra ha la bocca:      
 >      
 >la tua bocca! con i tuoi baci,     
->già tanto accorati a quei dì! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;70     
+>già tanto accorati a quei dì!&nbsp;&nbsp;&nbsp;&nbsp;70     
 >a quei dì beati e fugaci     
 >che aveva i tuoi baci... _Zvanî_!...     
 >     
 >che m'addormentavano gravi     
 >campane col placido canto,     
->e sul capo biondo che amavi, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;75     
+>e sul capo biondo che amavi,&nbsp;&nbsp;&nbsp;&nbsp;75     
 >sentivo un tepore di pianto!    
 >     
 >che ti lessi negli occhi, ch'erano     
 >pieni di pianto, che sono      
 >pieni di terra, la preghiera      
->di vivere e d'essere buono! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;80     
+>di vivere e d'essere buono!&nbsp;&nbsp;&nbsp;&nbsp;80     
 >      
 >Ed allora, quasi un comando,      
 >no, quasi un compianto, t'uscì      
