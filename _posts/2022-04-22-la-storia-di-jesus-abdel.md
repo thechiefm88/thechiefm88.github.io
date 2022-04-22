@@ -7,7 +7,7 @@ author: MDA DS
 Con questo post, il primo dopo alcuni mesi di stop dovuti a impegni soffocanti, voglio presentare il mio ultimo scritto.     
 Jesus Abdél è un rider nel periodo immediatamente successivo alla morte del collega e strettissimo amico Martino, investito da un'auto durante il lavoro.    
 Questo evento farà da scintilla nella rivalutazione della sua vita e dell'ambiente che lo circonda.     
-A parte questo fondamentale input contestuale come al solito consiglio prima di leggere l'opera e trarre le proprie conclusioni, il link al download lo trovate in homepage o (cliccando qui)[/assets/pdf/ja.pdf].
+A parte questo fondamentale input contestuale come al solito consiglio prima di leggere l'opera e trarre le proprie conclusioni, il link al download lo trovate in homepage o [cliccando qui](/assets/pdf/ja.pdf).
 
 Il soggetto trova il mio personale interesse, ed è espediente per mettere in discussione il rapporto tra vicenda personale e vicenda sociale, che si intrecciano su multipli piani di esistenza: nel rapporto indiretto coi manifestanti, nel rapporto con i senzatetto elemento fragile per eccellenza, nel rapporto diretto con la violenza.    
 La morte del collega scatenerà nel protagonista un percorso di rivalutazione completa della sua vita che lo porterà a scontrarsi direttamente ed in modo volutamente violento con la società in cui è immerso, caratterizzata dalla legittimazione dell'abuso e da una totale alienazione emotiva.     
