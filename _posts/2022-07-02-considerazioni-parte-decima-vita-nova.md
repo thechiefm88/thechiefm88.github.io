@@ -7,7 +7,7 @@ author: MDA DS
 Dopo una lunga pausa dal blog, dovuta principalmente agli impegni lavorativi, ma anche dal molto scrivere, voglio analizzare una delle parti fondamentali della "Vita nova" di Dante Alighieri.     
 Trattasi della parte decima, fondamentale perché per molti versi si tratta dell'opera germinale del dolce stil novo come lo intendiamo.
 
-Prima nota importante è dal punto di vista strutturale: ci troviamo subito dopo tre sonetti, numero forse non casuale vista la forte pregnanza della numerologia in tutta l'opera[1^], e ancora più importante ci troviamo di fronte alla prima canzone dell'opera.    
+Prima nota importante è dal punto di vista strutturale: ci troviamo subito dopo tre sonetti, numero forse non casuale vista la forte pregnanza della numerologia in tutta l'opera[^1], e ancora più importante ci troviamo di fronte alla prima canzone dell'opera.    
 Quindi gia numerologicamente possiamo volendo trovare i numeri 3 ed 1 ovviamente legati, inoltre la canzone nella linguistica dantesca, quella per intenderci del "de vulgari eloquentia", rappresenta il genere più elevato, sul podio seguito da ballata e sonetto, infimo; parrebbe evidente insomma la posizione notevole di questa parte dell'opera.
 
 Il cuore degli eventi si sviluppa intorno ad uno scambio di battute tra il Dante autore-protagonista ed un gruppo di donne; lo scambio si articola così:    
@@ -36,4 +36,4 @@ Secondo questa interpretazione Dante sarebbe a tutti gli effetti il padre di que
 Una interpretazione che io personalmente non ritengo lontana dal vero, non solo per l'uso che ha fatto della lingua o per le specifiche considerazioni e trattazioni sulle forme poetiche e della lingua in se, quanto per la volontà di dare al volgare una dignità propria e innegabile, che a mio modesto parere emerge fortissima anche dal voler appropriarsi a tutto tondo della poesia, rendendolo mezzo di contenuti e dignità insoliti e audaci.     
 Su quanto poi Dante possa considerarsi più di qua o di là in quella flebile distinzione tra medioevo e umanesimo la questione resta ben più complicata.
 
-[1^]: Solo nella prima parte dell'opera compare molteplici volte il numero 9 in quanto numero per eccellenza di virtù nel medioevo cristiano (si pensi ai nove prodi) ed associato a beatrice, questa operazione poi ricorrerà per tutta l'opera.
+[^1]: Solo nella prima parte dell'opera compare molteplici volte il numero 9 in quanto numero per eccellenza di virtù nel medioevo cristiano (si pensi ai nove prodi) ed associato a beatrice, questa operazione poi ricorrerà per tutta l'opera.
