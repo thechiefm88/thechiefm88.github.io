@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Presentazione di "Un'Estate Terribile"'
+title: Presentazione di "Un'Estate Terribile"
 date: 2022-08-01
 author: MDA DS
 ---
