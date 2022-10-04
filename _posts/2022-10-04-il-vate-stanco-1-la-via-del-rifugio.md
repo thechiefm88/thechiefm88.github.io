@@ -23,7 +23,7 @@ Nella prima parte troviamo i pezzi più celebri e celebrati della raccolta, in p
 Attraverso queste scelte metriche si mostra un immaginario estremamente decadente, popolato di fanciulle e signore, ma anche di dignitosi anziani, personaggi che provocano un profondo sgomento psicologico, espresso però nei termini della filosofia, per il confronto e le riflessioni che forzano nel poeta, direttamente presente sia come narratore che come personaggio.     
 Guardiamo ad una delle parti clou de "le due strade", i vv. 49-54:
 
->Nulla fu più sinidìstro che la bocca vermiglia     
+>Nulla fu più sinistro che la bocca vermiglia     
 >troppo, le tinte ciglia e l'opera del bistro    
 >     
 >intorno all'occhio stanco, la piega di quei labri,     
@@ -78,7 +78,7 @@ L'ultima rinunzia è proprio il sacrificio ultimo di sensibilità, intesa come c
 >    
 >Ma lasciatemi sognare!&#187;     
 
-Come nota finale, in calce al mio testo si fa notare, con le parole di De Marchi, la parentela concettuale tra il motto di Gozzano e quello di Palazzeschi:     
+Come nota finale, in calce al [mio testo](https://www.ibs.it/poesie-libro-guido-gozzano/e/9788806231866) si fa notare, con le parole di De Marchi, la parentela concettuale tra il motto di Gozzano e quello di Palazzeschi:     
 &#171;il famoso: "e lasciatemi divertire!" del Palazzeschi... incomincia là dove termina questo "lasciatemi sognare". Dall'estetismo esasperato dell'estrema età romantica si passa al funambolismo futurista con due consimili invocazioni&#187;.     
 La parentela concettuale è effettivamente notevole e rende i due forse i più interessanti autori passati sotto la corrente crepuscolare.
 
