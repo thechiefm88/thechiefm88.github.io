@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Il vate stanco 1: La via del rifugio
+title: Il vate stanco 1, "La via del rifugio"
 date: 2022-10-04
 author: MDA DS
 ---
