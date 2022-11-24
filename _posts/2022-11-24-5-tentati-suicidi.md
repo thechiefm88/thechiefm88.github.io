@@ -18,7 +18,7 @@ Di seguito, quindi, vedremo più in dettaglio 5 pezzi tratti dall'opera, tutti c
 Puntualizzo che l'ordine degli estratti segue strettamente quello di apparizione nel testo, non sono quindi classificati in base all'apprezzamento o altro.      
 Tutti e 5 sono componimenti che ho apprezzato e per questo li ho scelti, non senza rammarico di lasciarne fuori altri, tuttavia ho cercato di fare la mia scelta anche in modo tale da esporre la diversità e varietà che come ho detto caratterizza la raccolta.
 
-###5.
+### 5.
 
 >chiedo malattia terminale      
 >melanoma almeno macchia sospetta      
@@ -34,7 +34,7 @@ Allo stesso tempo il tono pubblicitario risponde al desiderio sopra: si desidera
 Questo dolore si scioglie tutto nell'ultimo verso: il dolore fisico, dovuto però al dolore sociale, poiché la scarpa inadeguata è acquistata in promozione, è l'ombra di un male più profondo ed intimo, solo accennato, non approfondito, che dà la caratura del tema: alla climax discendente iniziale quindi si accompagna la climax ascendente che sorvola il componimento passsando dal dolore immaginato, a quello fisico reale, fino al dolore sociale e personale, da un'imprecazione ad un segnale di profondo dolore appena suggerito.      
 In 6 versi un profondità di significati eccezionale.       
 
-###14.
+### 14.
 
 >una cravatta di mio marito meglio     
 >una cinta di accappatoio più lunga     
@@ -46,7 +46,7 @@ Ancora tuttavia sono pregnanti le suggestioni sessuali: alla cravatta del marito
 Questa cinta manco a farlo apposta è più lunga, cosa che oltre alla suggestione sessuale indica allo stesso tempo un allentarsi del progetto suicida, così come all'ambito sessuale rimandano anche la saliva e lo sbavare.     
 Quindi l'ostilità di coppia, che scaturisce sia dal trauma personale che dal carico che la società mette (il lavoro), crea un malessere che si scarica nella suggestione sessuale che ovviamente si sviluppa nell'ambito del tradimento, quantomeno come fuga mentale da questi disagi e conflitti.          
 
-###38.
+### 38.
 
 >in bicicletta mentre torno       
 >con le buste della spesa     
@@ -68,7 +68,7 @@ Un po' è come se l'infilare il senso unico vietato sia la scintilla che fa scat
 Tutto ciò che spicca è lo sguardo del bambino, una figura innocente che è al fianco del volante, quindi inerme e succube di una tragedia esterna a lui; Poi spicca il cappelo dell'inter, che dà l'idea della passione caratterizzante che il genitore passa al figlio, con cui plasma il figlio ed i suoi gusti, allo stesso tempo di un simbolo della divisione di genere tra i bambini in cui il maschio viene tanto spesso accostato alla cultura del calcio dal genitore, una cultura così pregnante.      
 Questa sensazione di flash anche ricorre in alcuni componimenti (vedere il 18 ed il 25) e crea un'atmosfera di scollegamento dalla realtà, in cui il pensiero suicida è l'effetto di un attimo di sconforto, indotto dal più insospettato dettaglio, in un modo o nell'altro connesso alle più intime fragilità.       
 
-###44.
+### 44.
 
 >arrivata a pesare quaranta chili     
 >nascondo panini in mezzo alle siepi     
@@ -79,7 +79,7 @@ Questo componimento è in chiusura di un breve arco inerente il cibo ed i distur
 Qui l'attacco è tragico, seguito da due versi che hanno qualcosa di infantile, adolescenziale, panini e barattoli danno il senso di un pranzo al sacco, di quei tipi di alimenti che si portano anche a scuola; I panini vengono nascosti nelle siepi che evocano un immaginario di parco o pausa pranzo in cortile, ma poi i maglioni dallo tutto il senso di una fisicità in sviluppo, del comfort nel nasconderla sotto indumenti larghi in cui affondare (un senso simile assume la felpa nel 15).      
 Al contempo il maglione riporta tutto al target reale, cioè quello dell'apparenza, dello sviluppo di un'autoacettazione così fragile nel passaggio adolescenziale; Il vestiario è termine di paragone e la morte nel verso 4 è programmata "prima del cambio stagione", prima del momento terribile che segna la prova del fuoco dell'apparire fisico ed esteriore, ma di riflesso anche prima del crescere, di cui espone tutta la traumaticità.       
 
-###50.
+### 50.
 
 >contro il palo della luce      
 >senza casco      
