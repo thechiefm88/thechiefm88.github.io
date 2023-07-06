@@ -5,93 +5,93 @@ date: 2023-07-06
 author: MDA DS
 ---
 Proseguiamo con il secondo approfondimento relativo all'opera "L'Allegria" di Ungaretti.      
-Di seguito il testo.
+La pesia in questione è "I Fiumi", dalla seconda sezione della raccolta; Di seguito il testo.
 
 Ho volutamente aggiunto la mia interpretazione della scansione metrica sul testo, in quanto l'analisi che faccio si basa massicciamente su di essa[^1]:      
 
->Mi tengo a quest'albero mutilato [11]
->abbandonato in questa dolina [11]
->che ha il languore [6]
->di un circo [3]
->prima o dopo lo spettacolo [8...] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5
->e guardo [3]
->il passaggio quieto [6]
->delle nuvole sulla luna [9]
->
->Stamani mi sono disteso [9]
->in un'urna d'acqua [6] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10
->e come una reliquia [7]
->ho riposato [5]
->
->L'Isonzo scorrendo [6]
->mi levigava [5]
->come un suo sasso [5] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 15
->
->Ho tirato su [6!]
->le mie quattr'ossa [5]
->e me ne sono andato [7]
->come un acrobata [5.../6...]
->sull'acqua [3] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 20
->
->Mi sono accoccolato [7/8]
->vicino ai miei panni [6/7]
->sudici di guerra [6]
->e come un beduino [7]
->mi sono chinato a ricevere [11] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 25
->il sole [3]
->
->Questo è l'Isonzo [5]
->e qui meglio [4]
->mi sono riconosciuto [8]
->una docile fibra [7] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 30
->dell'universo [5]
->
->Il mio supplizio [5]
->è quando [3]
->non mi credo [4]
->in armonia [5] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 35
->
->Ma quelle occulte [5]
->mani [2]
->che m'intridono [5]
->mi regalano [5]
->la rara [3] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 40
->felicità [5!]
->
->Ho ripassato [5]
->le epoche [3...]
->della mia vita [5]
->
->Questi sono [4] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 45
->i miei fiumi [4]
->
->Questo è il Serchio [6]
->al quale hanno attinto [7]
->duemil'anni forse [6]
->di gente mia campagnola [8] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 50
->e mio padre e mia madre [8]
->
->Questo è il Nilo [5]
->che mi ha visto [4]
->nascere e crescere [5...]
->e ardere d'inconsapevolezza [11] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 55
->nelle estese pianure [7]
->
->Questa è la Senna [6]
->e in quel suo torbido [7]
->mi sono rimescolato [8]
->e mi sono conosciuto [8] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 60
->
->Questi sono i miei fiumi [7]
->contati nell'Isonzo [7]
->
->Questa è la mia nostalgia [9]
->che in ognuno [5]
->mi traspare [4] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 65
->ora ch'è notte [5]
->che la mia vita mi pare [9]
->una corolla [5]
->di tenebre [4]
+>Mi tengo a quest'albero mutilato [11]       
+>abbandonato in questa dolina [11]       
+>che ha il languore [6]      
+>di un circo [3]      
+>prima o dopo lo spettacolo [8...] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5      
+>e guardo [3]      
+>il passaggio quieto [6]      
+>delle nuvole sulla luna [9]      
+>      
+>Stamani mi sono disteso [9]      
+>in un'urna d'acqua [6] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10      
+>e come una reliquia [7]      
+>ho riposato [5]      
+>     
+>L'Isonzo scorrendo [6]      
+>mi levigava [5]     
+>come un suo sasso [5] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 15     
+>    
+>Ho tirato su [6!]     
+>le mie quattr'ossa [5]     
+>e me ne sono andato [7]     
+>come un acrobata [5.../6...]     
+>sull'acqua [3] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 20     
+>     
+>Mi sono accoccolato [7/8]     
+>vicino ai miei panni [6/7]     
+>sudici di guerra [6]     
+>e come un beduino [7]     
+>mi sono chinato a ricevere [11] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 25    
+>il sole [3]     
+>     
+>Questo è l'Isonzo [5]     
+>e qui meglio [4]    
+>mi sono riconosciuto [8]     
+>una docile fibra [7] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 30     
+>dell'universo [5]     
+>     
+>Il mio supplizio [5]    
+>è quando [3]     
+>non mi credo [4]     
+>in armonia [5] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 35    
+>     
+>Ma quelle occulte [5]     
+>mani [2]     
+>che m'intridono [5]    
+>mi regalano [5]     
+>la rara [3] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 40     
+>felicità [5!]     
+>     
+>Ho ripassato [5]     
+>le epoche [3...]    
+>della mia vita [5]    
+>     
+>Questi sono [4] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 45     
+>i miei fiumi [4]     
+>     
+>Questo è il Serchio [6]     
+>al quale hanno attinto [7]     
+>duemil'anni forse [6]     
+>di gente mia campagnola [8] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 50       
+>e mio padre e mia madre [8]     
+>     
+>Questo è il Nilo [5]     
+>che mi ha visto [4]     
+>nascere e crescere [5...]     
+>e ardere d'inconsapevolezza [11] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 55    
+>nelle estese pianure [7]      
+>     
+>Questa è la Senna [6]     
+>e in quel suo torbido [7]      
+>mi sono rimescolato [8]     
+>e mi sono conosciuto [8] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 60     
+>     
+>Questi sono i miei fiumi [7]    
+>contati nell'Isonzo [7]     
+>     
+>Questa è la mia nostalgia [9]     
+>che in ognuno [5]     
+>mi traspare [4] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 65     
+>ora ch'è notte [5]        
+>che la mia vita mi pare [9]      
+>una corolla [5]     
+>di tenebre [4]     
 
 Trattasi del componimento più cospicuo della raccolta, 69 versi totali, confrontati coi 60 (mediamente anche piu brevi) di "Giugno".       
 È altresì un componimento estremamente importante, che racchiude molti dei temi fondamentali dell'opera.      
