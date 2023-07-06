@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ungaretti, un approfondimento: Chiaroscuro
+title: ' Ungaretti, un approfondimento: Chiaroscuro '
 date: 2023-06-27
 author: MDA DS
 ---
