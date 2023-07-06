@@ -97,10 +97,10 @@ Trattasi del componimento più cospicuo della raccolta, 69 versi totali, confron
 È altresì un componimento estremamente importante, che racchiude molti dei temi fondamentali dell'opera.      
 
 Una suddivisione abbastanza immediata è in 3 parti, piu una chiusa:       
-1 una prima parte che comprende le prime 4 strofe, quindi 8+4+3+5=20 versi;      
-2 Una seconda parte comprendente dalla quinta all'ottava strofa, quindi sempre 4 strofe di 6+5+4+6=21 versi;      
-3 La terza parte comprendente tutto il resto del componimento ad esclusione dell'ultima strofa, appunto la chiusa, quindi 6 strofe da 3+2+5+5+4+2=21 versi;      
-4 la strofa finale come chiusa di 7 versi.     
+1. una prima parte che comprende le prime 4 strofe, quindi 8+4+3+5=20 versi;      
+2. Una seconda parte comprendente dalla quinta all'ottava strofa, quindi sempre 4 strofe di 6+5+4+6=21 versi;      
+3. La terza parte comprendente tutto il resto del componimento ad esclusione dell'ultima strofa, appunto la chiusa, quindi 6 strofe da 3+2+5+5+4+2=21 versi;      
+4. la strofa finale come chiusa di 7 versi.     
 
 Riconoscere questa scansione ci aiuta tantissimo nell'analisi, poiché le strutture interne sono tutte notevoli; In particolare le tre parti hanno più o meno una stessa durata metrica, 20-21-21 versi, ma la terza si distanzia in quanto a scansione strofica.      
 Le prime due parti, invece, si corrispondono, hanno infatti la stessa quantità di strofe ed anche i rapporti tra strofe si somigliano, andando dapprima a calare in lunghezza per poi assestarsi sul punto massimo di nuovo, con l'eccezione che la prima strofa invece di essere di 5 versi, come imporrebbe la scansione, è di 8 in quanto ha ruolo anche di attacco e fa corrispondenza con la chiusa a livello metrico, 8 e 7 versi rispettivamente, e geometrico.     
