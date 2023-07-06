@@ -5,7 +5,9 @@ date: 2023-07-06
 author: MDA DS
 ---
 Proseguiamo con il secondo approfondimento relativo all'opera "L'Allegria" di Ungaretti.      
-Di seguito il testo; Ho volutamente aggiunto la mia interpretazione della scansione metrica sul testo, in quanto l'analisi che faccio si basa massicciamente su di essa[^1]:      
+Di seguito il testo.
+
+Ho volutamente aggiunto la mia interpretazione della scansione metrica sul testo, in quanto l'analisi che faccio si basa massicciamente su di essa[^1]:      
 
 >Mi tengo a quest'albero mutilato [11]
 >abbandonato in questa dolina [11]
