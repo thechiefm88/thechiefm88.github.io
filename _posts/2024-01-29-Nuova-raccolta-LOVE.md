@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nuova raccolta, LOVE
+title: ' Nuova raccolta, LOVE '
 date: 2024-01-29
 author: MDA DS
 ---
